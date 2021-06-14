@@ -8,6 +8,6 @@ Hey guys, this project was made to help network engineers gather data from netwo
 
 SETUP
 
-Right now, the library is not hosted on PyPi (coming soon) so you will need to clone this repository if you plan test it out.
+Right now, the library is not hosted on PyPi (coming soon) so you will need to clone this repository if you want to test it out.
 
 This project can be tested in a virtual enviroment after installing all the requirements listed in "requirements.txt". Use "pip install -r requirements.txt" to install all requirements recursively from the list in your venv. This project was setup along with a SQL server, however the ANDCaT group is working on making this project more integrated by using SQLite3 as the database so everything can be run easily on one system. 
